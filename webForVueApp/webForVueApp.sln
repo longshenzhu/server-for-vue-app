@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webForVueApp", "webForVueAp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{CBBCFDEC-F5FF-41F9-882E-560F88C81C16}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataServer", "DataServer\DataServer.csproj", "{BE8441FC-7376-4A8A-AF97-4941188BD640}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{CBBCFDEC-F5FF-41F9-882E-560F88C81C16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBBCFDEC-F5FF-41F9-882E-560F88C81C16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBBCFDEC-F5FF-41F9-882E-560F88C81C16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE8441FC-7376-4A8A-AF97-4941188BD640}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE8441FC-7376-4A8A-AF97-4941188BD640}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE8441FC-7376-4A8A-AF97-4941188BD640}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE8441FC-7376-4A8A-AF97-4941188BD640}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
