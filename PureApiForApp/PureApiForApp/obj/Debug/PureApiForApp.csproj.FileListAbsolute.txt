@@ -1,0 +1,17 @@
+G:\GithupWorkSpace\server-for-vue-app\PureApiForApp\PureApiForApp\bin\PureApiForApp.dll.config
+G:\GithupWorkSpace\server-for-vue-app\PureApiForApp\PureApiForApp\bin\PureApiForApp.dll
+G:\GithupWorkSpace\server-for-vue-app\PureApiForApp\PureApiForApp\bin\PureApiForApp.pdb
+G:\GithupWorkSpace\server-for-vue-app\PureApiForApp\PureApiForApp\bin\Newtonsoft.Json.dll
+G:\GithupWorkSpace\server-for-vue-app\PureApiForApp\PureApiForApp\bin\System.Net.Http.Formatting.dll
+G:\GithupWorkSpace\server-for-vue-app\PureApiForApp\PureApiForApp\bin\System.Web.Http.dll
+G:\GithupWorkSpace\server-for-vue-app\PureApiForApp\PureApiForApp\bin\System.Web.Http.WebHost.dll
+G:\GithupWorkSpace\server-for-vue-app\PureApiForApp\PureApiForApp\bin\Newtonsoft.Json.xml
+G:\GithupWorkSpace\server-for-vue-app\PureApiForApp\PureApiForApp\bin\System.Net.Http.Formatting.xml
+G:\GithupWorkSpace\server-for-vue-app\PureApiForApp\PureApiForApp\bin\System.Web.Http.xml
+G:\GithupWorkSpace\server-for-vue-app\PureApiForApp\PureApiForApp\bin\System.Web.Http.WebHost.xml
+G:\GithupWorkSpace\server-for-vue-app\PureApiForApp\PureApiForApp\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+G:\GithupWorkSpace\server-for-vue-app\PureApiForApp\PureApiForApp\bin\zh-Hans\System.Web.Http.resources.dll
+G:\GithupWorkSpace\server-for-vue-app\PureApiForApp\PureApiForApp\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+G:\GithupWorkSpace\server-for-vue-app\PureApiForApp\PureApiForApp\obj\Debug\PureApiForApp.csprojResolveAssemblyReference.cache
+G:\GithupWorkSpace\server-for-vue-app\PureApiForApp\PureApiForApp\obj\Debug\PureApiForApp.dll
+G:\GithupWorkSpace\server-for-vue-app\PureApiForApp\PureApiForApp\obj\Debug\PureApiForApp.pdb

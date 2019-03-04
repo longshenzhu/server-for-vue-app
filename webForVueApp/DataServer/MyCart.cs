@@ -1,0 +1,22 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using Common;
+
+namespace DataServer
+{
+    public class MyCart
+    {
+        public static IList<Product> Products = new List<Product>()
+        {
+            
+        };
+
+        public MessageResult AddToCart(Product product)
+        {
+            
+        }
+    }
+}
