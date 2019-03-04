@@ -1,0 +1,8 @@
+G:\workSpace\gitWorkSpace\webForVueApp2017\DataServer\bin\Release\DataServer.dll
+G:\workSpace\gitWorkSpace\webForVueApp2017\DataServer\bin\Release\DataServer.pdb
+G:\workSpace\gitWorkSpace\webForVueApp2017\DataServer\bin\Release\Common.dll
+G:\workSpace\gitWorkSpace\webForVueApp2017\DataServer\bin\Release\Common.pdb
+G:\workSpace\gitWorkSpace\webForVueApp2017\DataServer\obj\Release\DataServer.csprojResolveAssemblyReference.cache
+G:\workSpace\gitWorkSpace\webForVueApp2017\DataServer\obj\Release\DataServer.csproj.CoreCompileInputs.cache
+G:\workSpace\gitWorkSpace\webForVueApp2017\DataServer\obj\Release\DataServer.dll
+G:\workSpace\gitWorkSpace\webForVueApp2017\DataServer\obj\Release\DataServer.pdb

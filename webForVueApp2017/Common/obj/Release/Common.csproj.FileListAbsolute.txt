@@ -1,0 +1,5 @@
+G:\workSpace\gitWorkSpace\webForVueApp2017\Common\bin\Release\Common.dll
+G:\workSpace\gitWorkSpace\webForVueApp2017\Common\bin\Release\Common.pdb
+G:\workSpace\gitWorkSpace\webForVueApp2017\Common\obj\Release\Common.csproj.CoreCompileInputs.cache
+G:\workSpace\gitWorkSpace\webForVueApp2017\Common\obj\Release\Common.dll
+G:\workSpace\gitWorkSpace\webForVueApp2017\Common\obj\Release\Common.pdb

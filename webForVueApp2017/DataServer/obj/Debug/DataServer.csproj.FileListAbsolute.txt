@@ -1,0 +1,16 @@
+G:\workSpace\gitWorkSpace\server-for-vue-app\webForVueApp2017\DataServer\bin\Debug\DataServer.dll
+G:\workSpace\gitWorkSpace\server-for-vue-app\webForVueApp2017\DataServer\bin\Debug\DataServer.pdb
+G:\workSpace\gitWorkSpace\server-for-vue-app\webForVueApp2017\DataServer\bin\Debug\Common.dll
+G:\workSpace\gitWorkSpace\server-for-vue-app\webForVueApp2017\DataServer\bin\Debug\Common.pdb
+G:\workSpace\gitWorkSpace\server-for-vue-app\webForVueApp2017\DataServer\obj\Debug\DataServer.csprojResolveAssemblyReference.cache
+G:\workSpace\gitWorkSpace\server-for-vue-app\webForVueApp2017\DataServer\obj\Debug\DataServer.csproj.CoreCompileInputs.cache
+G:\workSpace\gitWorkSpace\server-for-vue-app\webForVueApp2017\DataServer\obj\Debug\DataServer.dll
+G:\workSpace\gitWorkSpace\server-for-vue-app\webForVueApp2017\DataServer\obj\Debug\DataServer.pdb
+G:\workSpace\gitWorkSpace\webForVueApp2017\DataServer\bin\Debug\DataServer.dll
+G:\workSpace\gitWorkSpace\webForVueApp2017\DataServer\bin\Debug\DataServer.pdb
+G:\workSpace\gitWorkSpace\webForVueApp2017\DataServer\bin\Debug\Common.dll
+G:\workSpace\gitWorkSpace\webForVueApp2017\DataServer\bin\Debug\Common.pdb
+G:\workSpace\gitWorkSpace\webForVueApp2017\DataServer\obj\Debug\DataServer.csprojResolveAssemblyReference.cache
+G:\workSpace\gitWorkSpace\webForVueApp2017\DataServer\obj\Debug\DataServer.csproj.CoreCompileInputs.cache
+G:\workSpace\gitWorkSpace\webForVueApp2017\DataServer\obj\Debug\DataServer.dll
+G:\workSpace\gitWorkSpace\webForVueApp2017\DataServer\obj\Debug\DataServer.pdb
