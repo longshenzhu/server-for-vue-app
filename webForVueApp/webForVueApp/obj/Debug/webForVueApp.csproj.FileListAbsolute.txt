@@ -33,3 +33,5 @@ G:\GithupWorkSpace\server-for-vue-app\webForVueApp\webForVueApp\bin\zh-Hans\Syst
 G:\GithupWorkSpace\server-for-vue-app\webForVueApp\webForVueApp\obj\Debug\webForVueApp.csprojResolveAssemblyReference.cache
 G:\GithupWorkSpace\server-for-vue-app\webForVueApp\webForVueApp\obj\Debug\webForVueApp.dll
 G:\GithupWorkSpace\server-for-vue-app\webForVueApp\webForVueApp\obj\Debug\webForVueApp.pdb
+G:\GithupWorkSpace\server-for-vue-app\webForVueApp\webForVueApp\bin\Common.dll
+G:\GithupWorkSpace\server-for-vue-app\webForVueApp\webForVueApp\bin\Common.pdb

@@ -39,8 +39,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MyCart.cs" />
-    <Compile Include="Product.cs" />
+    <Compile Include="Domains\Acount.cs" />
+    <Compile Include="Domains\MyCart.cs" />
+    <Compile Include="Domains\Product.cs" />
     <Compile Include="Tables.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

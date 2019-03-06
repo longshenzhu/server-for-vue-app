@@ -1,0 +1,7 @@
+G:\GithupWorkSpace\server-for-vue-app\webForVueApp\DataServer\bin\Debug\DataServer.dll
+G:\GithupWorkSpace\server-for-vue-app\webForVueApp\DataServer\bin\Debug\DataServer.pdb
+G:\GithupWorkSpace\server-for-vue-app\webForVueApp\DataServer\bin\Debug\Common.dll
+G:\GithupWorkSpace\server-for-vue-app\webForVueApp\DataServer\bin\Debug\Common.pdb
+G:\GithupWorkSpace\server-for-vue-app\webForVueApp\DataServer\obj\Debug\DataServer.csprojResolveAssemblyReference.cache
+G:\GithupWorkSpace\server-for-vue-app\webForVueApp\DataServer\obj\Debug\DataServer.dll
+G:\GithupWorkSpace\server-for-vue-app\webForVueApp\DataServer\obj\Debug\DataServer.pdb
