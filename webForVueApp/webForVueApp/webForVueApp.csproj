@@ -147,6 +147,10 @@
       <Project>{cbbcfdec-f5ff-41f9-882e-560f88c81c16}</Project>
       <Name>Common</Name>
     </ProjectReference>
+    <ProjectReference Include="..\DataServer\DataServer.csproj">
+      <Project>{be8441fc-7376-4a8a-af97-4941188bd640}</Project>
+      <Name>DataServer</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

@@ -35,3 +35,5 @@ G:\GithupWorkSpace\server-for-vue-app\webForVueApp\webForVueApp\obj\Debug\webFor
 G:\GithupWorkSpace\server-for-vue-app\webForVueApp\webForVueApp\obj\Debug\webForVueApp.pdb
 G:\GithupWorkSpace\server-for-vue-app\webForVueApp\webForVueApp\bin\Common.dll
 G:\GithupWorkSpace\server-for-vue-app\webForVueApp\webForVueApp\bin\Common.pdb
+G:\GithupWorkSpace\server-for-vue-app\webForVueApp\webForVueApp\bin\DataServer.dll
+G:\GithupWorkSpace\server-for-vue-app\webForVueApp\webForVueApp\bin\DataServer.pdb

@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="BE8441FC-7376-4A8A-AF97-4941188BD640" ModuleId="DataServer" />
+  <Module PersistentId="AAAA9988-18C4-4148-9197-0F147EE39691" ModuleId="webForVueApp" />
+  <Module PersistentId="CBBCFDEC-F5FF-41F9-882E-560F88C81C16" ModuleId="Common" />
+</Modules>
