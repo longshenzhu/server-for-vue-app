@@ -3,9 +3,8 @@ using System.Collections.Generic;
 
 namespace DataServer.Domains
 {
-    public class Product
+    public class Product : EntityBase
     {
-        public Guid Id { get; set; }
         public string Name { get; set; }
         public IList<string> ImageUrls { get; set; }
         public float Prize { get; set; }

@@ -40,8 +40,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Domains\Acount.cs" />
-    <Compile Include="Domains\MyCart.cs" />
+    <Compile Include="Domains\Cart.cs" />
+    <Compile Include="Domains\CartProduct.cs" />
     <Compile Include="Domains\Product.cs" />
+    <Compile Include="EntityBase.cs" />
     <Compile Include="Tables.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

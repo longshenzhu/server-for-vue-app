@@ -9,6 +9,8 @@ using System.Web.Http;
 using System.Web.Http.Hosting;
 using System.Web.Security;
 using Common;
+using DataServer;
+using DataServer.Domains;
 
 namespace webForVueApp.Api
 {
@@ -41,6 +43,17 @@ namespace webForVueApp.Api
         {
             var user = HttpContext.Current.User.Identity.Name;
             //HttpCookie cookieGet = HttpContext.Current.Request.Cookies["userName"];
+            return MessageResult.CreateSuccessResult(data: user);
+        }
+
+        [HttpGet]
+        public MessageResult GetAccountInfo(string loginName)
+        {
+            var user = UserTable.AllAccount.SingleOrDefault(x => x.LoginName == loginName);
+            if (user == null)
+            {
+                return MessageResult.CreateFailResult("用户不存在");
+            }
             return MessageResult.CreateSuccessResult(data: user);
         }
 

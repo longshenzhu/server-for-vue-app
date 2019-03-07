@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace DataServer.Domains
 {
-    public class Account
+    public class Account : EntityBase
     {
-        public Guid Id { get; set; }
         public string LoginName { get; set; }
         public string NickName { get; set; }
         public string Description { get; set; }
