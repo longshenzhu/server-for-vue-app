@@ -84,3 +84,6 @@ G:\workSpace\gitWorkSpace\webForVueApp2017\webForVueApp2017\obj\Debug\webForVueA
 G:\workSpace\gitWorkSpace\webForVueApp2017\webForVueApp2017\obj\Debug\webForVueApp2017.csproj.CoreCompileInputs.cache
 G:\workSpace\gitWorkSpace\webForVueApp2017\webForVueApp2017\obj\Debug\webForVueApp2017.dll
 G:\workSpace\gitWorkSpace\webForVueApp2017\webForVueApp2017\obj\Debug\webForVueApp2017.pdb
+G:\workSpace\gitWorkSpace\webForVueApp2017\webForVueApp2017\bin\System.Web.Cors.dll
+G:\workSpace\gitWorkSpace\webForVueApp2017\webForVueApp2017\bin\System.Web.Http.Cors.dll
+G:\workSpace\gitWorkSpace\webForVueApp2017\webForVueApp2017\bin\System.Web.Http.Cors.xml

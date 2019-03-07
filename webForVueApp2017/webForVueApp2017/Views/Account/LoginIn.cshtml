@@ -1,0 +1,47 @@
+﻿
+@{
+    ViewBag.Title = "LoginIn";
+}
+
+<h2>LoginIn</h2>
+
+<div class="">
+    <div>
+        <label>账号：</label>
+        <input placeholder="" value="super" id="loginName" />
+    </div>
+    <div>
+        <label>密码：</label>
+        <input placeholder="" value="123456" id="password" />
+    </div>
+    <button type="button" id="submit">登录</button>
+    <button type="button" id="getAccount">查看用户</button>
+</div>
+<script>
+    $(function () {
+        "use district";
+        $("#submit").click(function(e) {
+            var loginName = $("#loginName").val();
+            var password = $("#password").val();
+            $.ajax({
+                url: "/api/account/LoginIn",
+                type: "get",
+                data: 'loginName='+ loginName + '&password='+ password,
+                success:function(data) {
+                    console.log(data);
+                },
+
+            });
+        });
+        $("#getAccount").click(function(e) {
+            $.ajax({
+                url: "/api/account/GetAccountInfo",
+                type: "get",
+                success: function(data) {
+                    console.log(data);
+                },
+            });
+        });
+    })
+</script>
+

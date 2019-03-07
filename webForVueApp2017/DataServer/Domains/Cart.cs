@@ -7,14 +7,28 @@ using System.Threading.Tasks;
 
 namespace DataServer.Domains
 {
-    class Cart
+    public class Cart : EntityBase
     {
-        public static IList<Product> Products = new List<Product>()
+        public Cart()
+        {
+            Products = new List<CartProduct>();
+        }
+        public IList<CartProduct> Products { get; set; }
+        public int TotalCount { get; set; }
+        public float TotalPrize { get; set; }
+
+        public MessageResult AddToCart(Guid productId)
         {
 
-        };
+            return null;
+        }
 
-        public MessageResult AddToCart(Product product)
+        public MessageResult RemoveFromCart(Guid productId)
+        {
+            return null;
+        }
+
+        public MessageResult Clear()
         {
             return null;
         }
