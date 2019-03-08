@@ -16,6 +16,12 @@ namespace webForVueApp.Api
 {
     public class AccountController : ApiController
     {
+        /// <summary>
+        /// 用户登录接口
+        /// </summary>
+        /// <param name="loginName">用户名</param>
+        /// <param name="password">密码</param>
+        /// <returns></returns>
         [HttpPost]
         public MessageResult LoginIn(string loginName,string password)
         {
