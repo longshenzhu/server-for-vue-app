@@ -37,3 +37,15 @@ G:\GithupWorkSpace\server-for-vue-app\webForVueApp\webForVueApp\bin\Common.dll
 G:\GithupWorkSpace\server-for-vue-app\webForVueApp\webForVueApp\bin\Common.pdb
 G:\GithupWorkSpace\server-for-vue-app\webForVueApp\webForVueApp\bin\DataServer.dll
 G:\GithupWorkSpace\server-for-vue-app\webForVueApp\webForVueApp\bin\DataServer.pdb
+G:\GithupWorkSpace\server-for-vue-app\webForVueApp\webForVueApp\bin\System.Web.Cors.dll
+G:\GithupWorkSpace\server-for-vue-app\webForVueApp\webForVueApp\bin\System.Web.Http.Cors.dll
+G:\GithupWorkSpace\server-for-vue-app\webForVueApp\webForVueApp\bin\System.Web.Http.Cors.xml
+G:\GithupWorkSpace\server-for-vue-app\webForVueApp\webForVueApp\bin\Autofac.dll
+G:\GithupWorkSpace\server-for-vue-app\webForVueApp\webForVueApp\bin\Autofac.pdb
+G:\GithupWorkSpace\server-for-vue-app\webForVueApp\webForVueApp\bin\Autofac.xml
+G:\GithupWorkSpace\server-for-vue-app\webForVueApp\webForVueApp\bin\webForVueApp.XML
+G:\GithupWorkSpace\server-for-vue-app\webForVueApp\webForVueApp\bin\Autofac.Integration.WebApi.dll
+G:\GithupWorkSpace\server-for-vue-app\webForVueApp\webForVueApp\bin\Swashbuckle.Core.dll
+G:\GithupWorkSpace\server-for-vue-app\webForVueApp\webForVueApp\bin\WebActivatorEx.dll
+G:\GithupWorkSpace\server-for-vue-app\webForVueApp\webForVueApp\bin\Autofac.Integration.WebApi.pdb
+G:\GithupWorkSpace\server-for-vue-app\webForVueApp\webForVueApp\bin\Autofac.Integration.WebApi.xml

@@ -17,11 +17,11 @@ namespace webForVueApp
             // Web API 路由
             config.MapHttpAttributeRoutes();
 
-            config.Routes.MapHttpRoute(
-                name: "AreaApi",
-                routeTemplate: "api/{area}/{controller}/{action}",
-                defaults: new { }
-            );
+            //config.Routes.MapHttpRoute(
+            //    name: "AreaApi",
+            //    routeTemplate: "api/{area}/{controller}/{action}",
+            //    defaults: new { }
+            //);
 
             config.Routes.MapHttpRoute(
                 name: "DefaultApi",

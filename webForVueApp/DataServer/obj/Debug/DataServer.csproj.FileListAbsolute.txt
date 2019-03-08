@@ -5,3 +5,6 @@ G:\GithupWorkSpace\server-for-vue-app\webForVueApp\DataServer\bin\Debug\Common.p
 G:\GithupWorkSpace\server-for-vue-app\webForVueApp\DataServer\obj\Debug\DataServer.csprojResolveAssemblyReference.cache
 G:\GithupWorkSpace\server-for-vue-app\webForVueApp\DataServer\obj\Debug\DataServer.dll
 G:\GithupWorkSpace\server-for-vue-app\webForVueApp\DataServer\obj\Debug\DataServer.pdb
+G:\GithupWorkSpace\server-for-vue-app\webForVueApp\DataServer\bin\Debug\Autofac.dll
+G:\GithupWorkSpace\server-for-vue-app\webForVueApp\DataServer\bin\Debug\Autofac.pdb
+G:\GithupWorkSpace\server-for-vue-app\webForVueApp\DataServer\bin\Debug\Autofac.xml

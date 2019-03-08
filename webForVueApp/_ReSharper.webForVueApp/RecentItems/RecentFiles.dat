@@ -3,21 +3,19 @@
     <File id="AAAA9988-18C4-4148-9197-0F147EE39691/d:Views/d:Shared/f:_Layout.cshtml" caret="1494" fromTop="37" />
     <File id="AAAA9988-18C4-4148-9197-0F147EE39691/d:Api/f:ApiTestController.cs" caret="245" fromTop="11" />
     <File id="AAAA9988-18C4-4148-9197-0F147EE39691/f:Web.config" caret="668" fromTop="17" />
-    <File id="BE8441FC-7376-4A8A-AF97-4941188BD640/d:Domains/f:Product.cs" caret="80" fromTop="3" />
-    <File id="BE8441FC-7376-4A8A-AF97-4941188BD640/f:Tables.cs" caret="3901" fromTop="15" />
-    <File id="AAAA9988-18C4-4148-9197-0F147EE39691/d:Api/f:AcountController.cs" caret="1064" fromTop="21" />
-    <File id="AAAA9988-18C4-4148-9197-0F147EE39691/d:Api/f:ProductController.cs" caret="337" fromTop="14" />
-    <File id="AAAA9988-18C4-4148-9197-0F147EE39691/d:Api/f:CartController.cs" caret="487" fromTop="17" />
+    <File id="BE8441FC-7376-4A8A-AF97-4941188BD640/d:Domains/f:Product.cs" caret="122" fromTop="5" />
+    <File id="BE8441FC-7376-4A8A-AF97-4941188BD640/d:Domains/f:Acount.cs" caret="200" fromTop="9" />
+    <File id="BE8441FC-7376-4A8A-AF97-4941188BD640/f:EntityBase.cs" caret="182" fromTop="9" />
+    <File id="BE8441FC-7376-4A8A-AF97-4941188BD640/d:Domains/f:CartProduct.cs" caret="197" fromTop="6" />
+    <File id="BE8441FC-7376-4A8A-AF97-4941188BD640/d:Domains/f:Cart.cs" caret="224" fromTop="7" />
+    <File id="AAAA9988-18C4-4148-9197-0F147EE39691/d:Api/f:ProductController.cs" caret="780" fromTop="17" />
+    <File id="AAAA9988-18C4-4148-9197-0F147EE39691/d:Api/f:CartController.cs" caret="285" fromTop="9" />
+    <File id="BE8441FC-7376-4A8A-AF97-4941188BD640/f:Tables.cs" caret="2633" fromTop="4" />
+    <File id="AAAA9988-18C4-4148-9197-0F147EE39691/d:Api/f:AcountController.cs" caret="370" fromTop="9" />
+    <File id="AAAA9988-18C4-4148-9197-0F147EE39691/f:packages.config" caret="0" fromTop="0" />
+    <File id="AAAA9988-18C4-4148-9197-0F147EE39691/d:App_Start/f:WebApiConfig.cs" caret="182" fromTop="7" />
   </RecentFiles>
   <RecentEdits>
-    <File id="AAAA9988-18C4-4148-9197-0F147EE39691/d:Views/d:Shared/f:_Layout.cshtml" caret="532" fromTop="11" />
-    <File id="AAAA9988-18C4-4148-9197-0F147EE39691/d:Views/d:Shared/f:_Layout.cshtml" caret="1494" fromTop="25" />
-    <File id="AAAA9988-18C4-4148-9197-0F147EE39691/d:Api/f:AcountController.cs" caret="1540" fromTop="21" />
-    <File id="AAAA9988-18C4-4148-9197-0F147EE39691/d:Api/f:AcountController.cs" caret="459" fromTop="7" />
-    <File id="AAAA9988-18C4-4148-9197-0F147EE39691/d:Api/f:AcountController.cs" caret="1229" fromTop="21" />
-    <File id="AAAA9988-18C4-4148-9197-0F147EE39691/d:Api/f:AcountController.cs" caret="1385" fromTop="24" />
-    <File id="AAAA9988-18C4-4148-9197-0F147EE39691/d:Api/f:AcountController.cs" caret="1113" fromTop="15" />
-    <File id="AAAA9988-18C4-4148-9197-0F147EE39691/f:Web.config" caret="668" fromTop="17" />
     <File id="BE8441FC-7376-4A8A-AF97-4941188BD640/f:Tables.cs" caret="856" fromTop="23" />
     <File id="BE8441FC-7376-4A8A-AF97-4941188BD640/f:Tables.cs" caret="1143" fromTop="31" />
     <File id="BE8441FC-7376-4A8A-AF97-4941188BD640/f:Tables.cs" caret="1432" fromTop="39" />
@@ -30,9 +28,23 @@
     <File id="BE8441FC-7376-4A8A-AF97-4941188BD640/f:Tables.cs" caret="1954" fromTop="28" />
     <File id="BE8441FC-7376-4A8A-AF97-4941188BD640/f:Tables.cs" caret="2247" fromTop="36" />
     <File id="BE8441FC-7376-4A8A-AF97-4941188BD640/f:Tables.cs" caret="2507" fromTop="11" />
-    <File id="AAAA9988-18C4-4148-9197-0F147EE39691/d:Api/f:ProductController.cs" caret="275" fromTop="11" />
-    <File id="AAAA9988-18C4-4148-9197-0F147EE39691/d:Api/f:ProductController.cs" caret="394" fromTop="16" />
     <File id="AAAA9988-18C4-4148-9197-0F147EE39691/d:Api/f:CartController.cs" caret="430" fromTop="15" />
     <File id="AAAA9988-18C4-4148-9197-0F147EE39691/d:Api/f:CartController.cs" caret="487" fromTop="17" />
+    <File id="AAAA9988-18C4-4148-9197-0F147EE39691/d:Api/f:AcountController.cs" caret="1978" fromTop="29" />
+    <File id="AAAA9988-18C4-4148-9197-0F147EE39691/d:Api/f:AcountController.cs" caret="1617" fromTop="22" />
+    <File id="BE8441FC-7376-4A8A-AF97-4941188BD640/f:EntityBase.cs" caret="182" fromTop="9" />
+    <File id="BE8441FC-7376-4A8A-AF97-4941188BD640/d:Domains/f:Product.cs" caret="129" fromTop="6" />
+    <File id="BE8441FC-7376-4A8A-AF97-4941188BD640/d:Domains/f:Acount.cs" caret="200" fromTop="9" />
+    <File id="BE8441FC-7376-4A8A-AF97-4941188BD640/d:Domains/f:CartProduct.cs" caret="337" fromTop="11" />
+    <File id="BE8441FC-7376-4A8A-AF97-4941188BD640/d:Domains/f:CartProduct.cs" caret="197" fromTop="6" />
+    <File id="BE8441FC-7376-4A8A-AF97-4941188BD640/d:Domains/f:Cart.cs" caret="681" fromTop="22" />
+    <File id="BE8441FC-7376-4A8A-AF97-4941188BD640/d:Domains/f:Cart.cs" caret="222" fromTop="5" />
+    <File id="AAAA9988-18C4-4148-9197-0F147EE39691/d:Api/f:ProductController.cs" caret="509" fromTop="7" />
+    <File id="AAAA9988-18C4-4148-9197-0F147EE39691/d:Api/f:ProductController.cs" caret="667" fromTop="15" />
+    <File id="AAAA9988-18C4-4148-9197-0F147EE39691/d:Api/f:ProductController.cs" caret="1111" fromTop="26" />
+    <File id="AAAA9988-18C4-4148-9197-0F147EE39691/d:Api/f:ProductController.cs" caret="780" fromTop="16" />
+    <File id="AAAA9988-18C4-4148-9197-0F147EE39691/d:App_Start/f:WebApiConfig.cs" caret="1184" fromTop="29" />
+    <File id="AAAA9988-18C4-4148-9197-0F147EE39691/d:App_Start/f:WebApiConfig.cs" caret="127" fromTop="4" />
+    <File id="AAAA9988-18C4-4148-9197-0F147EE39691/d:App_Start/f:WebApiConfig.cs" caret="1406" fromTop="22" />
   </RecentEdits>
 </RecentFiles>

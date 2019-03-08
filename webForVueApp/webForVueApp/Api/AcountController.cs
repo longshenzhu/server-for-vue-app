@@ -16,7 +16,7 @@ namespace webForVueApp.Api
 {
     public class AccountController : ApiController
     {
-        [HttpGet]
+        [HttpPost]
         public MessageResult LoginIn(string loginName,string password)
         {
             //string cookieValue = "";
@@ -38,13 +38,13 @@ namespace webForVueApp.Api
             return MessageResult.CreateSuccessResult("注销成功");
         }
 
-        [HttpGet]
-        public MessageResult GetAccountInfo()
-        {
-            var user = HttpContext.Current.User.Identity.Name;
-            //HttpCookie cookieGet = HttpContext.Current.Request.Cookies["userName"];
-            return MessageResult.CreateSuccessResult(data: user);
-        }
+        //[HttpGet]
+        //public MessageResult GetAccountInfo()
+        //{
+        //    var user = HttpContext.Current.User.Identity.Name;
+        //    //HttpCookie cookieGet = HttpContext.Current.Request.Cookies["userName"];
+        //    return MessageResult.CreateSuccessResult(data: user);
+        //}
 
         [HttpGet]
         public MessageResult GetAccountInfo(string loginName)
