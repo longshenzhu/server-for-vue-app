@@ -87,3 +87,6 @@ G:\workSpace\gitWorkSpace\webForVueApp2017\webForVueApp2017\obj\Debug\webForVueA
 G:\workSpace\gitWorkSpace\webForVueApp2017\webForVueApp2017\bin\System.Web.Cors.dll
 G:\workSpace\gitWorkSpace\webForVueApp2017\webForVueApp2017\bin\System.Web.Http.Cors.dll
 G:\workSpace\gitWorkSpace\webForVueApp2017\webForVueApp2017\bin\System.Web.Http.Cors.xml
+G:\workSpace\gitWorkSpace\webForVueApp2017\webForVueApp2017\bin\webForVueApp2017.xml
+G:\workSpace\gitWorkSpace\webForVueApp2017\webForVueApp2017\bin\Swashbuckle.Core.dll
+G:\workSpace\gitWorkSpace\webForVueApp2017\webForVueApp2017\bin\WebActivatorEx.dll

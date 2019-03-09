@@ -15,6 +15,13 @@ namespace webForVueApp2017.Api
 {
     public class AccountController : ApiController
     {
+        /// <summary>
+        /// 用户登录
+        /// </summary>
+        /// <param name="loginName">用户名</param>
+        /// <param name="password">密码</param>
+        /// <param name="rememberMe">是否记住密码</param>
+        /// <returns></returns>
         [HttpGet]
         public MessageResult LoginIn(string loginName,string password,bool rememberMe =false)
         {
@@ -29,6 +36,10 @@ namespace webForVueApp2017.Api
             return MessageResult.CreateSuccessResult("登录成功",account);
         }
 
+        /// <summary>
+        /// 注销
+        /// </summary>
+        /// <returns></returns>
         [HttpGet]
         public MessageResult LoginOut()
         {
@@ -36,13 +47,11 @@ namespace webForVueApp2017.Api
             return MessageResult.CreateSuccessResult("注销成功");
         }
 
-        //[HttpGet]
-        //public MessageResult GetAccountInfo()
-        //{
-        //    var user = HttpContext.Current.User.Identity.Name;
-        //    return MessageResult.CreateSuccessResult(data: user);
-        //}
-
+        /// <summary>
+        /// 获取登录用户信息
+        /// </summary>
+        /// <param name="loginName">用户名</param>
+        /// <returns></returns>
         [HttpGet]
         public MessageResult GetAccountInfo(string loginName)
         {

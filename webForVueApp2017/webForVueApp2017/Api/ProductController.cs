@@ -14,13 +14,21 @@ namespace webForVueApp2017.Api
     {
         private List<Product> _productService = ProductTable.AllProducts;
 
+        /// <summary>
+        /// 获取商品列表
+        /// </summary>
+        /// <returns></returns>
         [HttpGet]
         public IList<Product> GetProducts()
         {
             return _productService;
         }
 
-        //添加商品，产品上架
+        /// <summary>
+        /// 添加商品，产品上架
+        /// </summary>
+        /// <param name="product">商品信息</param>
+        /// <returns></returns>
         [HttpPost]
         public MessageResult AddProduct(Product product)
         {
@@ -30,7 +38,11 @@ namespace webForVueApp2017.Api
             return MessageResult.CreateSuccessResult("添加成功", product);
         }
 
-        //移除商品
+        /// <summary>
+        /// 移除商品
+        /// </summary>
+        /// <param name="productId">商品Id</param>
+        /// <returns></returns>
         [HttpPost]
         public MessageResult RemoveProduct(Guid productId)
         {
