@@ -11,7 +11,8 @@ namespace Common.Db
 {
     public class DbHelperSql
     {
-        public static string ConnectionString = ConfigurationManager.AppSettings["ConnectionString"];
+        public static string ConnectionString = ConfigurationManager.ConnectionStrings["NbLight"].ConnectionString;
+         
         public static SqlConnection GetCon()
         {
             return new SqlConnection(ConnectionString);

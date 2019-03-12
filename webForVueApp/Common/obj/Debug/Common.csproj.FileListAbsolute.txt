@@ -5,4 +5,3 @@ G:\GithupWorkSpace\server-for-vue-app\webForVueApp\Common\obj\Debug\Common.pdb
 G:\GithupWorkSpace\server-for-vue-app\webForVueApp\Common\bin\Debug\Autofac.dll
 G:\GithupWorkSpace\server-for-vue-app\webForVueApp\Common\bin\Debug\Autofac.pdb
 G:\GithupWorkSpace\server-for-vue-app\webForVueApp\Common\bin\Debug\Autofac.xml
-G:\GithupWorkSpace\server-for-vue-app\webForVueApp\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
