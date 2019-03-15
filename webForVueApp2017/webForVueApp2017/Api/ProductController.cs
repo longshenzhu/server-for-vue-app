@@ -33,7 +33,7 @@ namespace webForVueApp2017.Api
         public MessageResult AddProduct(Product product)
         {
             //todo 验证
-
+            product.Id = Guid.NewGuid();
             _productService.Add(product);
             return MessageResult.CreateSuccessResult("添加成功", product);
         }
