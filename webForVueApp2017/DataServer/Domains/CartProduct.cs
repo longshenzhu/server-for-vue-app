@@ -8,8 +8,7 @@ namespace DataServer.Domains
 {
     public class CartProduct : EntityBase
     {
-        public Guid ProductId { get; set; }
+        public Product Product { get; set; }
         public int Count { get; set; }
-        public DateTime CreateTime { get; set; }
     }
 }

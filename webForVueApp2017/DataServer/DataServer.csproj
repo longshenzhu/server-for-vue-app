@@ -43,6 +43,7 @@
     <Compile Include="Domains\Account.cs" />
     <Compile Include="Domains\Cart.cs" />
     <Compile Include="Domains\CartProduct.cs" />
+    <Compile Include="Domains\Order.cs" />
     <Compile Include="Domains\Product.cs" />
     <Compile Include="DataTables.cs" />
     <Compile Include="EntityBase.cs" />

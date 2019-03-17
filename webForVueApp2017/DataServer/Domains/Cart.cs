@@ -9,6 +9,7 @@ namespace DataServer.Domains
 {
     public class Cart : EntityBase
     {
+        public string loginName { get; set; }
         public Cart()
         {
             Products = new List<CartProduct>();
@@ -17,9 +18,8 @@ namespace DataServer.Domains
         public int TotalCount { get; set; }
         public float TotalPrize { get; set; }
 
-        public MessageResult AddToCart(Guid productId)
+        public MessageResult AddToCart(CartProduct product)
         {
-
             return null;
         }
 

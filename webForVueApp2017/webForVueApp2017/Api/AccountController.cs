@@ -87,8 +87,22 @@ namespace webForVueApp2017.Api
             return MessageResult.CreateSuccessResult();
         }
 
-        public MessageResult EditPassword()
+        /// <summary>
+        /// 修改密码
+        /// </summary>
+        /// <returns></returns>
+        public MessageResult EditPassword(string loginName, string newPwd)
         {
+            var account = _accountService.SingleOrDefault(x => x.LoginName == loginName);
+            if (account == null)
+            {
+                return MessageResult.CreateFailResult("用户名不正确");
+            }
+            if (string.IsNullOrEmpty(newPwd))
+            {
+                return MessageResult.CreateFailResult("密码不能为空");
+            }
+            account.Password = newPwd;
             return MessageResult.CreateSuccessResult();
         }
     }

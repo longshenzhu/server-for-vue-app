@@ -66,12 +66,9 @@ namespace DataServer
             }
         };
     }
-    public class MyCartTable
+    public class CartTable
     {
-        public static List<Guid> AllProducts = new List<Guid>()
-        {
-            new Guid("553aa59e-4265-45ee-9eef-5a41d83cca04")
-        };
+        public static List<Cart> AllProducts = new List<Cart>();
     }
 
     public class UserTable
