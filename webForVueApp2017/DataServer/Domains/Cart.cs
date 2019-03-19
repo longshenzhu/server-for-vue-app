@@ -15,7 +15,13 @@ namespace DataServer.Domains
             Products = new List<CartProduct>();
         }
         public IList<CartProduct> Products { get; set; }
+        /// <summary>
+        /// 购物车商品总件数,计算属性
+        /// </summary>
         public int TotalCount { get; set; }
+        /// <summary>
+        /// 购物车商品总价，计算属性
+        /// </summary>
         public float TotalPrize { get; set; }
 
         public MessageResult AddToCart(CartProduct product)

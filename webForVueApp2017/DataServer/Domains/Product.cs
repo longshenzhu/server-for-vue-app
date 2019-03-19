@@ -30,5 +30,6 @@ namespace DataServer.Domains
         /// 商品或发货地址：福建福州
         /// </summary>
         public string Address { get; set; }
+        public DateTime CreateTime { get; set; }
     }
 }

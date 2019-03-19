@@ -9,6 +9,7 @@ namespace DataServer.Domains
     /// </summary>
     public class Order : EntityBase
     {
+        public string LoginName { get; set; }
         public Order()
         {
             OrderProducts = new List<OrderProduct>();
@@ -19,15 +20,16 @@ namespace DataServer.Domains
 
     public class OrderProduct
     {
+        public Guid OrderId { get; set; }
         public Guid ProductId { get; set; }
         /// <summary>
         /// 购买数量
         /// </summary>
-        public int Number { get; set; }
+        public int Count { get; set; }
         /// <summary>
         /// 购买价
         /// </summary>
-        public float BuyInPrice { get; set; }
+        public decimal BuyInPrice { get; set; }
     }
 
 
