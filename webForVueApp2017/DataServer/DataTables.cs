@@ -81,7 +81,9 @@ namespace DataServer
                 LoginName = "super",
                 Password = "123456",
                 NickName = "超级管理员",
-                Description = "后门入口用户，拥有最高权限"
+                Description = "后门入口用户，拥有最高权限",
+                Roles = "admin",
+                AvatarUrl = ""
             },
             new Account()
             {
@@ -89,7 +91,9 @@ namespace DataServer
                 LoginName = "admin",
                 Password = "123456",
                 NickName = "管理员",
-                Description = "管理员用户，最高管理员权限"
+                Description = "管理员用户，最高管理员权限",
+                Roles = "admin",
+                AvatarUrl = ""
             },
             new Account()
             {
@@ -97,7 +101,9 @@ namespace DataServer
                 LoginName = "test",
                 Password = "123456",
                 NickName = "测试用户",
-                Description = "登录可测试"
+                Description = "登录可测试",
+                Roles = "",
+                AvatarUrl = ""
             },
             new Account()
             {
@@ -105,7 +111,9 @@ namespace DataServer
                 LoginName = "account1",
                 Password = "123456",
                 NickName = "普通用户1",
-                Description = "普通用户1"
+                Description = "普通用户1",
+                Roles = "",
+                AvatarUrl = ""
             },
             new Account()
             {
@@ -113,7 +121,9 @@ namespace DataServer
                 LoginName = "account2",
                 Password = "123456",
                 NickName = "普通用户2",
-                Description = "普通用户2"
+                Description = "普通用户2",
+                Roles = "",
+                AvatarUrl = ""
             },
         };
     }
