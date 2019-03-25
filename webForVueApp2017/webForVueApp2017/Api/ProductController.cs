@@ -25,6 +25,17 @@ namespace webForVueApp2017.Api
         }
 
         /// <summary>
+        /// 获取商品详情
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
+        [HttpGet]
+        public Product GetProduct(Guid id)
+        {
+            return _productService.SingleOrDefault(x => x.Id == id);
+        }
+
+        /// <summary>
         /// 添加商品，产品上架
         /// </summary>
         /// <param name="product">商品信息</param>

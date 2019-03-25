@@ -8,6 +8,10 @@ namespace DataServer.Domains
 {
     public class Product : EntityBase
     {
+        public Product()
+        {
+            CreateTime = DateTime.Now;
+        }
         /// <summary>
         /// 商品标题,品牌、型号等
         /// </summary>
